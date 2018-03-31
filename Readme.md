@@ -1,4 +1,3 @@
-#Correcting Errors in Readme file
 ##Things I've learned at Bloc:
 1. HTML
 2. CSS
