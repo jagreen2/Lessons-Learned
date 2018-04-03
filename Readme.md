@@ -4,3 +4,4 @@
 3. JavaScript
 4. DOM manipulation
 5. Git and Github
+6. Classes
